@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Hay Mar Kyaw from Mandalay<br><br>- 🔭 I’m working as a fullstack web developer <<br>>
+<p align="left">I'm Hay Mar Kyaw from Mandalay<br><br>- 🔭 I’m working as a fullstack web developer <br>
 
 
 
